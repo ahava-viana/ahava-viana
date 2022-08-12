@@ -16,7 +16,7 @@
   </em>
 </p>
 
-- 📚 Atualmente estou aprendendo ReactJs.
+- 📚 Atualmente estou aprendendo Typescript.
 - 🚀 Aluna do curso Labenu.
 - 📫 Meu email: iamandaviana@gmail.com
 
