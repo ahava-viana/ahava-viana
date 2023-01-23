@@ -12,7 +12,7 @@
 
 <p>
   <em>
-   Me chamo Amanda Viana Fajardo, tenho 28 anos, e sou de BH-MG. Estou em processo de transição de carreira para me tornar uma Dev FullStack.
+   Me chamo Amanda Viana Fajardo, tenho 29 anos, e sou de BH-MG. Estou em processo de transição de carreira para me tornar uma Dev FullStack.
   </em>
 </p>
 
@@ -21,7 +21,7 @@
 - 📫 Meu email: iamandaviana@gmail.com
 
 
-### 📊 Metas 2022:
+### 📊 Metas 2023:
 
 - 📂 Expandir meu portfólio
 - 🤝 Contribuir em projetos open-source
