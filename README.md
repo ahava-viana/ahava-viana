@@ -4,24 +4,22 @@
   Bem-vindo ao meu perfil Github :dizzy:
 </h1>
 
-<p align='center'>
-  Desenvolvedora Full Stack
-</p>
 
-### 🤓 Sobre mim:
+
+### Sobre mim:
 
 <p>
   <em>
-   Me chamo Amanda Viana Fajardo, tenho 29 anos, e sou de BH-MG. Estou em processo de transição de carreira para me tornar uma Dev FullStack.
+   Me chamo Amanda Viana Fajardo, tenho 30 anos, e sou de BH-MG. Profissional em transição de carreira para gestão em tecnologia da informação, com experiência em atendimento ao cliente, vendas e atuação. Atualmente, sou aluna do curso de Gestão em Tecnologia da Informação e desenvolvi projetos durante um bootcamp em 2022. No GitHub, compartilho esses projetos e busco me aprimorar no desenvolvimento de soluções tecnológicas.
   </em>
 </p>
 
-- 📚 Atualmente estou aprendendo Typescript.
-- 🚀 Aluna do curso Labenu.
+- 📚 Atualmente faço graduação em Gestão de Tecnologia da Informação 
+- 🚀 Aluna da Puc Minas
 - 📫 Meu email: iamandaviana@gmail.com
 
 
-### 📊 Metas 2023:
+### 📊 Metas 2024:
 
 - 📂 Expandir meu portfólio
 - 🤝 Contribuir em projetos open-source
