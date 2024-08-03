@@ -10,7 +10,9 @@
 
 <p>
   <em>
-   Me chamo Amanda Viana Fajardo, tenho 30 anos, e sou de BH-MG. Profissional em transição de carreira para gestão em tecnologia da informação, com experiência em atendimento ao cliente, vendas e atuação. Atualmente, sou aluna do curso de Gestão em Tecnologia da Informação e desenvolvi projetos durante um bootcamp em 2022. No GitHub, compartilho esses projetos e busco me aprimorar no desenvolvimento de soluções tecnológicas.
+ Olá, meu nome é Amanda Viana Fajardo, tenho 30 anos e sou de Belo Horizonte, MG. Atualmente, estou em transição de carreira para a área de gestão em Tecnologia da Informação, trazendo uma experiência diversificada em atendimento ao cliente, vendas, análise de dados e atuação. Essa trajetória profissional me proporcionou um conjunto de habilidades valiosas para o setor de gestão de tecnologia.
+
+Atualmente, sou aluna do curso de Gestão em Tecnologia da Informação e participei de um bootcamp de desenvolvimento web full-stack em 2022, onde desenvolvi diversos projetos. Compartilho esses projetos no GitHub e continuo me aprimorando no desenvolvimento de soluções tecnológicas, buscando sempre novas formas de contribuir e crescer na área.
   </em>
 </p>
 
